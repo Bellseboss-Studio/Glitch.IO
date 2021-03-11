@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1- Ciinematica_Inicio_Profiles/MenuPrincipal.unity
+    guid: 204340b1c7f436742aa002bdc9232f67
+  - enabled: 1
+    path: Assets/Scenes/2-Plataformas/Plataformas.unity
+    guid: 2e3e095e548d2324db3b9b09d96ca7e0
+  - enabled: 1
+    path: Assets/Scenes/3-Naves/NavesEspaciales.unity
+    guid: 7c6b4a15954bcb246b95c9a0e6af9cef
+  - enabled: 1
+    path: Assets/Scenes/4-LaberintoMusico/LaberintoMusico.unity
+    guid: 04a5abd6c64356143a045c9f419bf28f
+  - enabled: 1
+    path: Assets/Scenes/5-Trinidad/BossFinal.unity
+    guid: 081bbb6afe5d36b42bcebcb29287ba6d
+  - enabled: 1
+    path: Assets/Scenes/1- Ciinematica_Inicio_Profiles/Cinematique.unity
+    guid: e3a06211a25bbce4f83cb3f36399c8af
+  m_configObjects: {}
