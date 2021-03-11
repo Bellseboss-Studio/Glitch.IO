@@ -55,7 +55,7 @@ public class PoderDeMusico : ControladorDePoder
     }
     void BajarParedes()
     {
-        ParedGanadora = Muros[Random.Range(0, 33)];
+        ParedGanadora = Muros[Random.Range(0, Muros.Length)];
         StartCoroutine(animacionDeBajadaDeMuro());
 
     }
