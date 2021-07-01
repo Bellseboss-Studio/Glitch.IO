@@ -9,3 +9,5 @@ https://twitter.com/HachiDrakengard
 https://twitter.com/ericmurieldev
 
 https://twitter.com/Pedro_Astasio
+
+https://twitter.com/PeryLoth
